@@ -41,7 +41,7 @@ You could do it from your dom
 or from javascript
 
 ```javascript
-Ember.I18n.setLocate('fr');
+Ember.I18n.setLocale('fr');
 ```
 
 ## Usage
